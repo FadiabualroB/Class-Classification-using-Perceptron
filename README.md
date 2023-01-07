@@ -1,4 +1,6 @@
 # Class-Classification-using-Perceptron
+Note: Please download the zip file for the complete code
+
 Binary and Multi Class Classification using Perceptron
 
 Implement an application which solve binary and multi-class classification problem. Classification refers to a machine learning problem in which the given set of data points fall into two or multi categories (Up to Four)
