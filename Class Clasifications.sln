@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class Clasifications", "ANN\Class Clasifications.csproj", "{19C889EB-17D5-4DF6-963F-283327458EF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19C889EB-17D5-4DF6-963F-283327458EF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C889EB-17D5-4DF6-963F-283327458EF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C889EB-17D5-4DF6-963F-283327458EF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C889EB-17D5-4DF6-963F-283327458EF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBCF2860-CEDE-41DB-8247-4D766CD37FA8}
+	EndGlobalSection
+EndGlobal
